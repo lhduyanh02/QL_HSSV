@@ -5,7 +5,6 @@
 package laptrinhjava;
 
 import java.sql.Connection;
-//THIS IS THE CHANGE
 /**
  *
  * @author Admin
